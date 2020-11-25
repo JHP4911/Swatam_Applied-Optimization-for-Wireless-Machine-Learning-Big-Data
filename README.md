@@ -2,7 +2,7 @@
 Applied Optimization for Wireless, Machine Learning, Big Data
 
 
-ASSIGNMENT LINK...
+ASSIGNMENT LINK...WITH ATTACHED SOLUTION ANSWERSHIP...
 
 0.https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=23&assessment=24 <BR>
 1.https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=16&assessment=114<BR>
@@ -14,6 +14,6 @@ ASSIGNMENT LINK...
 7.https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=67&assessment=134<BR>
 8.https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=75&assessment=137<BR>
 9.https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=85&assessment=140<BR>
-10.
-11.
-12.
+10.<BR>
+11.<BR>
+12.<BR>
