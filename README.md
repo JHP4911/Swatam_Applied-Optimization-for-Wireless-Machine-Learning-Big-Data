@@ -9,11 +9,11 @@ ASSIGNMENT LINK...WITH ATTACHED SOLUTION ANSWERSHIP...
 2.[Assignment-2](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=25&assessment=116) ,
 3.[Assignment-3](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=33&assessment=120) ,
 4.[Assignment-4](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=40&assessment=124) ,
-5.[Assignment-5](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=50&assessment=127)<BR>
+5.[Assignment-5](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=50&assessment=127) ,
 6.[Assignment-6](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=52&assessment=130)<BR>
-7.[Assignment-7](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=67&assessment=134)<BR>
-8.[Assignment-8](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=75&assessment=137<)<BR>
-9.[Assignment-9](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=85&assessment=140)<BR>
-10.[Assignment-10](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=93&assessment=145)<BR>
-11.[Assignment-11](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=100&assessment=148)<BR>
-12.[Assignment-12](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=107&assessment=152)<BR>
+7.[Assignment-7](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=67&assessment=134) ,
+8.[Assignment-8](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=75&assessment=137<) ,
+9.[Assignment-9](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=85&assessment=140) ,
+10.[Assignment-10](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=93&assessment=145) ,
+11.[Assignment-11](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=100&assessment=148) ,
+12.[Assignment-12](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=107&assessment=152) ,
