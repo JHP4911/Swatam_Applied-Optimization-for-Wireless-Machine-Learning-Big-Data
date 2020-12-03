@@ -14,6 +14,6 @@ ASSIGNMENT LINK...WITH ATTACHED SOLUTION ANSWERSHIP...
 7.https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=67&assessment=134<BR>
 8.https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=75&assessment=137<BR>
 9.https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=85&assessment=140<BR>
-10.<BR>
-11.<BR>
+10.<BR>https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=93&assessment=145
+11.<BR>https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=100&assessment=148
 12.<BR>
