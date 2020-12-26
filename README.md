@@ -17,3 +17,10 @@ ASSIGNMENT LINK...WITH ATTACHED SOLUTION ANSWERSHIP...
 10.[Assignment-10](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=93&assessment=145) ,
 11.[Assignment-11](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=100&assessment=148) ,
 12.[Assignment-12](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=107&assessment=152) ,
+
+# Python For Data Science...
+0.[Assignment-0]https://onlinecourses.nptel.ac.in/noc20_cs80/unit?unit=16&assessment=83
+1.[Assignment-1]https://onlinecourses.nptel.ac.in/noc20_cs80/unit?unit=17&assessment=84
+2.[Assignment-2]https://onlinecourses.nptel.ac.in/noc20_cs80/unit?unit=29&assessment=86
+3.[Assignment-3]https://onlinecourses.nptel.ac.in/noc20_cs80/unit?unit=40&assessment=88
+4.[Assignment-4]https://onlinecourses.nptel.ac.in/noc20_cs80/unit?unit=55&assessment=87
