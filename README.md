@@ -10,7 +10,7 @@ ASSIGNMENT LINK...WITH ATTACHED SOLUTION ANSWERSHIP...
 3.[Assignment-3](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=33&assessment=120) ,
 4.[Assignment-4](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=40&assessment=124) ,
 5.[Assignment-5](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=50&assessment=127) ,
-6.[Assignment-6](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=52&assessment=130)<BR>
+6.[Assignment-6](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=52&assessment=130),
 7.[Assignment-7](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=67&assessment=134) ,
 8.[Assignment-8](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=75&assessment=137<) ,
 9.[Assignment-9](https://onlinecourses.nptel.ac.in/noc20_ee59/unit?unit=85&assessment=140) ,
